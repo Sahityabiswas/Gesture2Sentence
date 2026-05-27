@@ -1,0 +1,2003 @@
+class,word
+0,Whistle
+1,Radius
+2,Friday
+3,Jeep
+4,Stingy
+5,Sari
+6,Reptile
+7,Summer
+8,Dhoti
+9,Chemistry
+10,Soldier
+11,Cold (Weather)
+12,Attack
+13,10/Ten
+14,Bucket
+15,Surat
+16,Language
+17,Find
+18,Climb Up
+19,Rush
+20,Fat
+21,Today
+22,Sofa
+23,February
+24,Drawing [VEB]
+25,Special
+26,Fear
+27,Market
+28,Thunder
+29,Schedule
+30,Jaundice
+31,Wood
+32,Health
+33,Costly
+34,Purple
+35,Patience
+36,Stomach
+37,You (Plural)
+38,Fishing Net
+39,Pink
+40,Study [VEB]
+41,Bribe [VEB]
+42,Pepper
+43,Many
+44,Body
+45,Bogie
+46,App
+47,Desert
+48,Payment
+49,Germany
+50,To
+51,Left (Side)/Left (Hand)
+52,Shiva
+53,Transparent
+54,Loud (Noise Sound)
+55,Matching
+56,Hate
+57,Faint/Pass Out/Lose Consciousness
+58,Director (Movie)
+59,Goal
+60,Story
+61,Report [VEB]
+62,National
+63,Telephone
+64,Advertisement
+65,Early
+66,Engagement
+67,Us
+68,On
+69,Silver
+70,Mysore
+71,Salt
+72,More
+73,Area
+74,India
+75,Agra
+76,Green
+77,Laddu
+78,Inaugurate
+79,Wet
+80,Kind
+81,Remove
+82,River
+83,Leader
+84,Camera
+85,Spend
+86,Shock
+87,Ooty
+88,Pure
+89,Pleasant
+90,Grass
+91,Proof
+92,Bus
+93,Black Board
+94,Torch
+95,Ambulance
+96,Year
+97,Save
+98,Put
+99,Hardwork
+100,Alive
+101,Tomorrow
+102,Carpenter
+103,Prove
+104,Insult [VEB]
+105,Man
+106,Yes
+107,Reach
+108,Nice
+109,Aim
+110,List
+111,Harvest
+112,Soap
+113,Leave
+114,Powder (Cosmetics)
+115,Equal
+116,Measure
+117,Snake
+118,Bedroom
+119,Experienced
+120,Must
+121,Why
+122,Lamp
+123,Aluminium
+124,Throat
+125,Voter Card
+126,Sister-In-Law
+127,Confirm
+128,Heart
+129,Lose [VEB]
+130,Beat
+131,Clap
+132,Guest
+133,P
+134,40/Forty
+135,Serve
+136,Ignore
+137,Exploit
+138,Drama
+139,100Th/Hundredth
+140,Volcano
+141,Brinjal (Aubergine)
+142,Wrong
+143,Skill
+144,Guava
+145,Bitter [ADE]
+146,All
+147,Hair
+148,Sit [VEB]/Chair
+149,Curds
+150,Tailor
+151,Aids
+152,Lake
+153,Computer
+154,Tear
+155,Follow
+156,Jew
+157,God
+158,Preposition
+159,Shine [VEB]
+160,Idiom
+161,Stir
+162,17/Seventeen
+163,Axe
+164,Borrow
+165,Feel
+166,Resign
+167,Rough (Behaviour)
+168,Submit
+169,Sell [VEB]
+170,Tall
+171,Enjoy [VEB]
+172,Smart
+173,Here
+174,Understand [VEB]
+175,Economics
+176,Stethoscope
+177,Fly [VEB]
+178,Harbour
+179,Tease
+180,Hold
+181,14/Fourteen
+182,Hotel
+183,1/One
+184,Hard
+185,Hurt
+186,Chew [VEB]
+187,Wear
+188,Paternal Uncle
+189,Clock
+190,Bus Stand
+191,Tonic
+192,Pig
+193,Word Class
+194,Four Times
+195,Rocket
+196,Mind
+197,Court
+198,Ribbon
+199,Groundnut
+200,Disease
+201,Taluka
+202,Flour
+203,August
+204,Next
+205,Meet
+206,Sow
+207,Library
+208,Kilogram
+209,Poison
+210,Sitar
+211,Warn
+212,Zoom Meeting
+213,University
+214,Silk
+215,Myself
+216,Greedy
+217,Work [VEB]
+218,Worry
+219,Verb
+220,Director
+221,Map
+222,Point
+223,Geometry
+224,Knees
+225,Gas Stove
+226,Swallow
+227,Plumber
+228,Defend
+229,Offer
+230,Socks
+231,Service
+232,Innocent
+233,T-Shirt
+234,Washing Brush
+235,Hot (To Feel/Weather)
+236,Shorts
+237,Draw
+238,Seashore
+239,O
+240,Behavior
+241,Punjab
+242,Shave
+243,Pakistan
+244,Chilli
+245,Support [VEB]
+246,Free
+247,Separate
+248,Waterway
+249,Crossroads
+250,High
+251,Past Tense
+252,Bangladesh
+253,Stretcher
+254,Education
+255,Chalk
+256,Stupid
+257,Prime Minister/P.M.
+258,Same
+259,Strike
+260,Celebrate
+261,Timid
+262,Bone
+263,V
+264,Daughter
+265,Iraq
+266,Cupboard
+267,Her/She
+268,Garden
+269,Pumpkin
+270,Bi-Lingual
+271,Leg
+272,Solve
+273,Website
+274,Store
+275,Newspaper
+276,Nagpur
+277,Grandmother
+278,Humorous
+279,No
+280,Near
+281,Slow
+282,Bag
+283,Chickoo (Sapodilla)
+284,Take
+285,Achievement
+286,Trouble
+287,New
+288,Ear
+289,Center
+290,During
+291,Agree
+292,Day After
+293,Lie [VEB]
+294,Mango
+295,Tennis
+296,4/Four
+297,Leather
+298,Bath
+299,Better
+300,Invent
+301,Ticket
+302,Slow [ADE]
+303,Inch
+304,Waste
+305,Grow [VEB]
+306,Blow
+307,Size
+308,Twins
+309,Sanitizer
+310,Hop
+311,Smallpox
+312,Karate
+313,Mixer
+314,Stepdaughter
+315,Travel
+316,Square
+317,Ganapati
+318,Cinema House
+319,Use
+320,Biscuit
+321,%/Percentage
+322,How Big
+323,Method
+324,Pay
+325,T. C. (Ticket Collector)
+326,Go
+327,Berth
+328,Full
+329,Build
+330,A.T.M. (Machine)
+331,Before
+332,Milk
+333,Things/Neuter Gender/Raw
+334,Non-Vegetarian
+335,Lucky
+336,Rise [VEB]
+337,100/One Hundred
+338,Watermelon
+339,Stage
+340,Family
+341,Hen
+342,Horse
+343,Seed
+344,Mime
+345,Ample/Plenty
+346,Swing
+347,Rack
+348,Fan
+349,Measles
+350,Cure
+351,Sweet Lime (Sweet Lemon)
+352,6/Six
+353,Continent
+354,Happen
+355,30/Thirty
+356,Liter
+357,Few
+358,Simla
+359,Pour
+360,Bridge
+361,See [VEB]
+362,Brick
+363,Crayon
+364,W
+365,Stop
+366,Lesson
+367,Paint
+368,Charger (Phone)
+369,Frog
+370,Switch
+371,Rest
+372,Table
+373,Belt
+374,Depart
+375,Bangalore
+376,Chase
+377,Shape
+378,Marathi
+379,Russia
+380,7/Seven
+381,A.C.
+382,Lecturer
+383,Cruel
+384,True/Affirmative
+385,Sly
+386,Justice
+387,Upset
+388,Projector
+389,Drown
+390,North Pole
+391,Appear
+392,Disobey
+393,Ramadan
+394,Wake-Up
+395,Dark
+396,Nail/Pin
+397,Responsibility
+398,Thus
+399,Good
+400,Continue
+401,Rock
+402,G
+403,Sweep
+404,Ice Cream
+405,Fire
+406,Zebra Crossing
+407,13/Thirteen
+408,So
+409,Above
+410,Bury [VEB]
+411,Deep
+412,Weaver
+413,Charger (Laptop)
+414,Plural
+415,Thirsty
+416,S.T.D.
+417,Drawer
+418,Lick
+419,Active
+420,Tie (Dressware)
+421,Eclipse
+422,Writer
+423,Church
+424,Stepfather
+425,This
+426,Can
+427,Brother-In-Law
+428,Show
+429,Inspire
+430,Slowly
+431,Shop
+432,He/Him
+433,Toes
+434,Group
+435,Please
+436,Future Tense
+437,Add [VEB]
+438,Sing [VEB]
+439,Minister
+440,With
+441,Wish
+442,Necklace
+443,Note
+444,Shoes
+445,Cheese
+446,From
+447,Fresh
+448,Proverb
+449,Now
+450,West Indies
+451,Brave
+452,Die [VEB]/Dead
+453,Ice
+454,Cheap
+455,Beans
+456,Handwash Liquid
+457,Grey
+458,Saloon
+459,Century
+460,Network
+461,Pencil
+462,Publish
+463,Walking Stick
+464,Teach/Train [VEB]
+465,Crush/Smash/Squash
+466,Topic
+467,Cucumber
+468,Kiss
+469,Tamil
+470,Restaurant
+471,I
+472,Recognize
+473,Gun
+474,Surname
+475,Themselves
+476,Try
+477,Post [VEB]
+478,Zoo
+479,Equipment
+480,Carry
+481,Hearing
+482,Cough
+483,Shawl
+484,Bench
+485,Lotus
+486,Drive
+487,Mother-In-Law
+488,Buddhist
+489,First Floor
+490,Push
+491,Full Time
+492,Well
+493,Himself
+494,Singular
+495,Teacher
+496,Van
+497,50Th/Fiftieth
+498,Wait
+499,Coffee
+500,Team
+501,Help [VEB]
+502,Sailor
+503,Pan
+504,Peace
+505,Duty
+506,Queen
+507,Thigh
+508,Leaf
+509,Lazy
+510,Doctor
+511,Bail
+512,Safe (Locker)
+513,Grains
+514,Playing Cards
+515,Arrest
+516,Fill
+517,Jesus
+518,Iran
+519,Crow
+520,Cm
+521,Destroy
+522,Football
+523,Rain
+524,Airport
+525,Practice
+526,Remind
+527,Lose
+528,Tomato
+529,2Nd/Second
+530,Desk
+531,Gold
+532,Cheque
+533,Join
+534,Order
+535,Itself
+536,Little
+537,Juice
+538,Generous
+539,Confidence
+540,Post Office
+541,Adverb
+542,Candle
+543,Wall Brush
+544,Trade
+545,Noun
+546,Shout
+547,Sauce
+548,Volleyball
+549,Ahmedabad
+550,Goat
+551,Focus
+552,Part/Moholla/Peth
+553,Keep
+554,Planet
+555,Australia
+556,C
+557,Pineapple
+558,Police Station
+559,Quick
+560,Skip
+561,Retire
+562,Revolve [VEB]
+563,Judge
+564,Money Order
+565,Common
+566,Chandigarh
+567,Different
+568,Amritsar
+569,Needle
+570,Purse
+571,Jackfruit
+572,Chat
+573,Afford
+574,Km
+575,Pillow/Cushion
+576,Finish
+577,Subtract [VEB]
+578,Clean
+579,Nut (Hardware)
+580,China
+581,Dhobi
+582,Essay
+583,Owe
+584,Confuse
+585,Hip
+586,Mountain
+587,Duster
+588,Muslim
+589,Notebook
+590,Comfortable
+591,Hungry
+592,School
+593,May
+594,Direction
+595,Whatsapp
+596,Tense
+597,Drop
+598,Expensive
+599,Only
+600,Song
+601,Auditorium/Hall
+602,Interesting
+603,Bonus
+604,Punish
+605,Valley
+606,Buddha Purnima
+607,Exam Question
+608,Photocopy
+609,Loose
+610,Mumps
+611,Answer [VEB]
+612,It
+613,Tired
+614,Paise
+615,Zip
+616,Low
+617,Rose
+618,King
+619,11/Eleven
+620,Time
+621,July
+622,Grind
+623,Cosmetics
+624,Spider
+625,Card
+626,Weather
+627,Carrot
+628,Parents
+629,Program
+630,Dream
+631,Hide
+632,D
+633,Stove
+634,Water Bottle
+635,Film
+636,Beside
+637,Last (Time)
+638,Mahavir Jayanti
+639,Glass
+640,Curtain
+641,Squeeze
+642,R
+643,Word
+644,Write [VEB]
+645,City
+646,Cinema
+647,Israil
+648,Flower
+649,Yawn
+650,Christian
+651,Racket/Scam
+652,Compass (In Geometry Box)
+653,Resist
+654,Wide
+655,Show [VEB]
+656,Month
+657,Uniform
+658,Among
+659,Frank
+660,Light (Bulb)
+661,Roof
+662,Omit/Refuse/Reject/Avoid
+663,Pull
+664,Accuse
+665,Lock
+666,Famous
+667,Laugh
+668,Local Train
+669,Properly
+670,Wire
+671,Y
+672,Interest
+673,Electricity
+674,Independent
+675,Less
+676,Ring
+677,Than
+678,Room Heater
+679,Son
+680,December
+681,Guru Nanak Jayanti
+682,Do
+683,Permanent
+684,Doubt
+685,Airway
+686,Forget
+687,Courier
+688,Vote
+689,Boxing
+690,Stone
+691,Up
+692,Distance
+693,8/Eight
+694,Pongal
+695,Onion
+696,Plastic
+697,Lighthouse
+698,Pomegranate
+699,Other
+700,In Front Of
+701,Mug
+702,Sign
+703,Old
+704,There
+705,Bread
+706,Facebook
+707,Rotten
+708,Allow
+709,Cheat [VEB]
+710,Cremate [VEB]
+711,X-Ray
+712,March
+713,Round
+714,Oil
+715,Morning
+716,Perfect
+717,Twenty Times
+718,Next (Time)
+719,Reaction
+720,Grammar
+721,Terrace
+722,Balance
+723,Faith
+724,Age
+725,Shopkeeper
+726,Karnataka
+727,Whom
+728,Hill
+729,Straightforward
+730,Himachal Pradesh
+731,Thief
+732,Send
+733,Addict
+734,Whole
+735,Script
+736,Medicine
+737,Varanasi
+738,Break
+739,Mouse
+740,Waiter
+741,Slip
+742,President
+743,Sick
+744,Appropriate/Relevant/Suitable
+745,R.T.P.C.R. Test
+746,Fall
+747,Festival
+748,Sometimes
+749,Potter
+750,Birth
+751,Poetry
+752,Male/Gents/Masculine Gender
+753,Solid (State Of Stone)
+754,Accept
+755,Jewellery
+756,Document
+757,Discuss [VEB]
+758,Thermometer
+759,Vapor
+760,Car
+761,Road
+762,Across
+763,Geography
+764,Cockroach
+765,Pick
+766,Divorce
+767,Safe
+768,Cashew
+769,Iron
+770,Blunt
+771,Night
+772,S
+773,Hang
+774,Alright
+775,Servant
+776,Examine
+777,Housefly
+778,Ram
+779,Nepal
+780,Tamil Nadu
+781,At
+782,Come
+783,Equator
+784,Bindi
+785,Allocate/Allot/Apportion
+786,Mouth
+787,Their
+788,Cat
+789,School Bag
+790,Onam
+791,Glasses/Spectacles
+792,November
+793,Kick
+794,Squirrel
+795,Head
+796,Pappad
+797,Passbook
+798,Officer
+799,Mud
+800,Our
+801,Dam
+802,Confess
+803,Race
+804,Postpone
+805,A.T.M. Card
+806,2/Two
+807,Exhibition
+808,Children
+809,Email
+810,Vegetable
+811,Apple
+812,Moon
+813,Wings
+814,How Many
+815,Sugarcane
+816,Suspect
+817,Scooter
+818,Hut
+819,South Pole
+820,Branch
+821,Ten Times
+822,Train Station
+823,Climate
+824,Oriya
+825,Water
+826,Meter
+827,Cross
+828,Physics
+829,Assembly
+830,Both
+831,Mine
+832,Close
+833,Gate
+834,Eid
+835,Rule
+836,Cycle
+837,Poor
+838,September
+839,Toilet
+840,Raw Material
+841,Sour [ADE]
+842,Television/T.V.
+843,What
+844,Dance
+845,Distribute
+846,Stay/Live
+847,Check In
+848,If
+849,Drag
+850,Mile
+851,Normal
+852,Signal
+853,Technology
+854,Sphere
+855,Door
+856,Funny
+857,Throw
+858,Cold (Water)
+859,Mask
+860,Waist
+861,Maxi
+862,Hair Clip
+863,Waterfall
+864,Bottle
+865,Cow
+866,5/Five
+867,Cold Drink
+868,Tongue
+869,How
+870,Plug
+871,Fast [ADE]
+872,Sales
+873,K
+874,Stitch
+875,Argue/Quarrel
+876,Brain
+877,Diet
+878,Chicken
+879,Freeze
+880,Sky
+881,1St/First
+882,War
+883,Idea
+884,Very
+885,Boat
+886,15/Fifteen
+887,Red
+888,Chess
+889,Complain
+890,Floor
+891,Watch [VEB]
+892,Garlic
+893,Plan
+894,Mix
+895,Attention
+896,Swimming
+897,Accessories
+898,Slap
+899,Science
+900,Egg
+901,Become
+902,Pain
+903,Sleep [VEB]
+904,Pea
+905,Pack
+906,Rupee
+907,Christmas
+908,Perfect Tense
+909,Delhi
+910,Chappals
+911,Q
+912,Cake
+913,Responsible
+914,Monitor
+915,Sunday
+916,B
+917,Cafe/Cafeteria
+918,Kitchen
+919,Say [VEB]/Tell [VEB]
+920,Stand
+921,Breathe [VEB]
+922,Clothes
+923,Out
+924,Corruption
+925,Tiger
+926,Lassi
+927,Pet
+928,Badminton
+929,Lemon
+930,Passport
+931,Mathematics
+932,Speech Therapist
+933,Wipe
+934,C.D.
+935,Laboratory
+936,Durga
+937,Flag
+938,Expression
+939,Google
+940,Continuous Tense
+941,Chief
+942,Brittle
+943,Winter
+944,Social
+945,Earth
+946,Slippers
+947,Dog
+948,Because
+949,Relative
+950,Season
+951,Hers
+952,Chest
+953,Dim
+954,Need
+955,Clearly
+956,Praise
+957,Flexible
+958,Weak
+959,Highway
+960,Tie [VEB]
+961,Foot
+962,Tablet
+963,Balcony
+964,When
+965,Sister
+966,Tea
+967,Ant
+968,Orange (Color)
+969,Bhangra
+970,Password
+971,Tongs
+972,Black
+973,Lady's Finger
+974,Arrive
+975,Message
+976,Plow
+977,Fruit
+978,Knock
+979,Jail/Gaol
+980,Social Network
+981,New Moon Day
+982,Chocolate
+983,Address
+984,Puri
+985,Rectangle
+986,Dasara
+987,That
+988,Trivandrum
+989,Selfish
+990,Allergy
+991,Screw Driver
+992,First
+993,J
+994,Sandals
+995,Skirt
+996,Exercise
+997,Hot (To Taste) [ADE]
+998,Calm
+999,Reply [VEB]/Respond
+1000,Seat
+1001,Mirror
+1002,Sikkim
+1003,Tools
+1004,Hello
+1005,Plate
+1006,Twitter
+1007,Elder
+1008,But
+1009,Doll
+1010,Washbasin
+1011,Eye
+1012,Allah
+1013,Mobile
+1014,Cabbage
+1015,12/Twelve
+1016,Poster
+1017,Lunch
+1018,Thrice
+1019,Act [VEB]
+1020,Until
+1021,Irritable
+1022,Co-Operate
+1023,Cut
+1024,Goa
+1025,Butterfly
+1026,Collect
+1027,About
+1028,Student
+1029,Plant
+1030,Sewing Machine
+1031,Tree
+1032,Angle
+1033,Hockey
+1034,Quote
+1035,Multiply [VEB]
+1036,You
+1037,Village
+1038,English
+1039,Explain [VEB]
+1040,Bold
+1041,Bundh
+1042,Africa
+1043,Gujarati
+1044,Injection
+1045,Ball
+1046,Invite
+1047,Climb Down
+1048,Number
+1049,Sandwich
+1050,Breakfast
+1051,Police
+1052,9/Nine
+1053,Disappear
+1054,Where
+1055,Ginger
+1056,Spanner
+1057,Wind
+1058,Hear [VEB]
+1059,Hearing Aid
+1060,Business
+1061,L
+1062,Meat
+1063,Voice
+1064,Deer
+1065,Gift
+1066,Bill
+1067,Bake
+1068,Angry
+1069,Bed
+1070,Banana
+1071,Surrender
+1072,Pretend
+1073,Return
+1074,Air
+1075,Kanpur
+1076,M
+1077,31/Thirty One
+1078,Rude
+1079,Rajasthan
+1080,Arrange
+1081,Designing
+1082,Anklet
+1083,Secret
+1084,Jammu & Kashmir
+1085,Medical
+1086,Lame
+1087,Yoga
+1088,Long
+1089,Disappointed
+1090,Evening
+1091,Potato
+1092,Train (Railway)
+1093,Law
+1094,Pass/Succeed
+1095,Maharashtra
+1096,Rainy Season
+1097,History
+1098,Slice
+1099,Chain/Sequence/String
+1100,Creeper
+1101,Mother
+1102,Prescription
+1103,Thin
+1104,Clerk
+1105,Tiffin Box
+1106,Autorickshaw
+1107,Nose
+1108,Pajama
+1109,Scent
+1110,Welder
+1111,Traffic
+1112,Escalator
+1113,Temporary
+1114,Experiment
+1115,Painting [VEB]
+1116,Soft
+1117,Inspection
+1118,Set [VEB]
+1119,Take Care
+1120,Gossip
+1121,Play
+1122,Any
+1123,Husband
+1124,Social Distance
+1125,Masala
+1126,Window
+1127,Harmonium
+1128,Weight
+1129,Know
+1130,Simultaneous
+1131,Motor
+1132,Picture
+1133,Cutouts
+1134,Youtube
+1135,Name
+1136,Right
+1137,Knowledge
+1138,Subject
+1139,Request
+1140,Hand
+1141,Date
+1142,Nervous
+1143,Accident
+1144,Japan
+1145,Country
+1146,Bright (Color)
+1147,Laptop
+1148,Eat [VEB]/Food
+1149,N
+1150,Storm
+1151,Embroidery
+1152,Napkin
+1153,Unhappy
+1154,Ourselves
+1155,Hot (Looking)
+1156,Triangle
+1157,Civics
+1158,Possible/Available
+1159,Idli
+1160,Lawyer
+1161,Weekday
+1162,Earn
+1163,Cooking Gas
+1164,Holiday
+1165,Marker-Preffix/Suffix
+1166,Powder (Material/Masala)
+1167,Your
+1168,Pulses
+1169,Mute
+1170,Copy [VEB]
+1171,Flood
+1172,Turn
+1173,Left (Abandon)
+1174,Blue
+1175,Spastic
+1176,Soul
+1177,Saturday
+1178,Bible
+1179,Toy
+1180,Surgeon
+1181,Stepson
+1182,Caution
+1183,Transgender
+1184,Cave
+1185,Talk/Speak [VEB]
+1186,Improve
+1187,Coconut
+1188,Mediocre/Average
+1189,To You
+1190,Shirt
+1191,Operation
+1192,Dye
+1193,Postman
+1194,T.B.
+1195,Gardener
+1196,Spill
+1197,Crown
+1198,Lightning
+1199,Fast
+1200,Share
+1201,Balloon
+1202,Election
+1203,Clinic
+1204,Heavy
+1205,Patna
+1206,Nurse
+1207,Assam
+1208,Machine
+1209,Loss
+1210,Cube
+1211,Hyderabad
+1212,Wife
+1213,Loud (Sound In Thunder)
+1214,Visit
+1215,Sharpener
+1216,Cunning
+1217,Gram
+1218,Approve
+1219,Repair
+1220,Full Moon Day
+1221,Meal
+1222,A
+1223,Interpreter
+1224,Concentrate [VEB]
+1225,Flow [VEB]
+1226,Kill/Murder
+1227,Tubelight
+1228,Telugu
+1229,Wheat
+1230,Once
+1231,Button
+1232,We
+1233,Condition
+1234,Between
+1235,People
+1236,Place
+1237,Pickle/Chutney
+1238,Scissors
+1239,Coffin
+1240,Believe [VEB]
+1241,Memorise [VEB]/Remember
+1242,18/Eighteen
+1243,Present Tense
+1244,Connect/Link/Relate
+1245,Usa
+1246,Right (Side)/Right (Hand)
+1247,Angel
+1248,Through
+1249,Late
+1250,Wave
+1251,Demand Draft
+1252,0/Zero
+1253,Drink
+1254,Chapati
+1255,E
+1256,Read [VEB]
+1257,Holy
+1258,Feet
+1259,Warm
+1260,Notorious
+1261,Ask [VEB]
+1262,January
+1263,Mean (Behaviour)
+1264,Typewriter
+1265,Freedom
+1266,Society
+1267,Capital
+1268,Singapore
+1269,Circle
+1270,And
+1271,Touch
+1272,Energetic
+1273,Then/After
+1274,Finger
+1275,Sweater
+1276,Towel
+1277,Cobbler
+1278,Wise
+1279,Smell [VEB]
+1280,Wheel
+1281,Bandage
+1282,Samosa
+1283,Shoot [VEB]
+1284,Buddha
+1285,Present
+1286,Predict
+1287,Basketball
+1288,Your (Plural)
+1289,Passenger
+1290,Pigeon
+1291,Sugar
+1292,Live (Program)
+1293,Father-In-Law
+1294,Hope
+1295,Helicopter
+1296,Hot (Water)
+1297,Blind
+1298,Chapter
+1299,These
+1300,Track
+1301,Vessel
+1302,Jaipur
+1303,Corn
+1304,Float
+1305,Lipstick
+1306,Yet
+1307,Person
+1308,Begin/Start
+1309,Money
+1310,Bihar
+1311,Bite [VEB]
+1312,Liquor
+1313,Bhutan
+1314,Polite
+1315,"10,000,000/One Crore"
+1316,Draughtsman
+1317,21St/Twenty First
+1318,Online Meeting
+1319,Calendar
+1320,Attraction
+1321,Custard Apple
+1322,Thread
+1323,Coward
+1324,Park [NON]
+1325,Jump
+1326,State (In Country)
+1327,Sound
+1328,Tabla
+1329,Choose [VEB]
+1330,Ugly
+1331,Arm
+1332,Jealousy
+1333,Walk [VEB]
+1334,Strong
+1335,Rope
+1336,Always
+1337,Book
+1338,Radish
+1339,Profit
+1340,My
+1341,Sun
+1342,Steel
+1343,Information
+1344,Pass/Season Ticket
+1345,Shallow
+1346,Depend
+1347,Reservation
+1348,Slim
+1349,P.A.N. Card
+1350,Bhubaneswar
+1351,Pipe
+1352,Tight
+1353,Krishna
+1354,Profession
+1355,Challenge
+1356,Sikh
+1357,Disaster
+1358,Blank
+1359,Leafy Vegetable
+1360,Cancer
+1361,Earthquake
+1362,His
+1363,Run [VEB]
+1364,Personal
+1365,Grapes
+1366,Another
+1367,Wall
+1368,Chemist
+1369,Regular
+1370,Under
+1371,Never
+1372,Discover
+1373,Strange
+1374,Ship
+1375,Spread
+1376,Announce
+1377,Tiffin
+1378,Welcome
+1379,Careless
+1380,Absorb
+1381,Coolie
+1382,Watch
+1383,Mosquito
+1384,Hollow
+1385,Record [VEB]
+1386,Me
+1387,Bangles
+1388,Imagine [VEB]
+1389,October
+1390,Result
+1391,Paper
+1392,Local
+1393,Dry
+1394,Rice (Grains)
+1395,Cauliflower
+1396,Stepmother
+1397,Cone
+1398,Weigh
+1399,Basic Hand Position
+1400,1000/One Thousand
+1401,Stepbrother
+1402,Kurta
+1403,Ml
+1404,Cry
+1405,Change
+1406,Dollar
+1407,Like
+1408,Land
+1409,Spit
+1410,Catch
+1411,Give
+1412,Riot
+1413,Pilot
+1414,Woman
+1415,Ride
+1416,Cock
+1417,Urdu
+1418,Sharbat
+1419,16/Sixteen
+1420,Sorry
+1421,Below
+1422,Traffic Light
+1423,April
+1424,Mosque
+1425,Wifi
+1426,North (Side)
+1427,Pronoun
+1428,Stamp
+1429,Headphone
+1430,Post Card
+1431,Straight
+1432,Customer
+1433,Kite
+1434,Instruct [VEB]
+1435,Bud
+1436,Peel
+1437,Bedsheet
+1438,Learn [VEB]
+1439,Bell
+1440,Swim
+1441,Salute
+1442,Elbow
+1443,Fisherman
+1444,Monkey
+1445,Dress
+1446,Taste
+1447,Kabaddi
+1448,Confident
+1449,Liquid (State Of Water)
+1450,Sunflower
+1451,Ground
+1452,Biology
+1453,Lift [VEB]
+1454,Rotate [VEB]
+1455,Impossible
+1456,Sweat
+1457,West Bengal
+1458,101/Hundred & One
+1459,Decrease
+1460,Bad
+1461,Back
+1462,While
+1463,Check Out
+1464,Lungi
+1465,Diwali
+1466,Table Tennis
+1467,Popcorn
+1468,Envelop
+1469,Smile
+1470,Prepare
+1471,Sentence
+1472,Oath
+1473,Swami Vivekananda
+1474,Editor
+1475,U
+1476,Dubai
+1477,All The Best/Good Luck
+1478,Dozen
+1479,Intelligent
+1480,Star
+1481,Mary
+1482,Clown
+1483,Neck
+1484,Surprise
+1485,Fridge
+1486,I (Person)
+1487,Ramakrishna
+1488,Brown
+1489,Malayalam
+1490,Crime
+1491,Certificate
+1492,Grandfather
+1493,Gender
+1494,Jam
+1495,Empty
+1496,Small
+1497,Baby
+1498,Hanuman
+1499,Chart
+1500,Gujarat
+1501,Polish
+1502,Develop
+1503,Location
+1504,Guilty
+1505,Guitar
+1506,Skin
+1507,Jungle/Forest
+1508,New Year
+1509,Opposite
+1510,Factory
+1511,Toothpaste
+1512,Ignorant
+1513,Bike (Motorcycle)
+1514,Call
+1515,Ground Floor
+1516,Tie (Game-Draw/Both Win)
+1517,Clever
+1518,Day
+1519,Entertainment
+1520,Towards
+1521,Suffer
+1522,Mechanic
+1523,Paint Brush
+1524,Easter
+1525,Face
+1526,Articles
+1527,Crocodile
+1528,Spice
+1529,Bowl
+1530,Wrestling
+1531,Umbrella
+1532,Kochi
+1533,Pump
+1534,60/Sixty
+1535,Enter [VEB]
+1536,Fry
+1537,Bring/Guide/Lead
+1538,Transport
+1539,Tail
+1540,Mumbai
+1541,Cook
+1542,Nose Stud
+1543,Manager
+1544,Z
+1545,Guard
+1546,Artificial/Fake/Imitation
+1547,Win [VEB]
+1548,Narrow
+1549,Cement
+1550,Important
+1551,Dish
+1552,Thank You
+1553,Temperature
+1554,Art
+1555,Typist
+1556,Behave
+1557,Bat
+1558,Nail Polish
+1559,Dal/Curry
+1560,South (Side)
+1561,Spoil
+1562,Punctual
+1563,Frock
+1564,Knife
+1565,Thursday
+1566,Thick
+1567,Museum
+1568,Bark [VEB]
+1569,Taxi
+1570,Quran
+1571,Cream
+1572,Peacock
+1573,Pond
+1574,Meeting
+1575,Control
+1576,Action
+1577,Cost/Price
+1578,Stepsister
+1579,Animal
+1580,Cabin
+1581,Listen [VEB]
+1582,Communicate
+1583,Miss
+1584,Pending
+1585,Devil
+1586,Class
+1587,Exchange
+1588,Pateti
+1589,Lips
+1590,Project
+1591,Ruler
+1592,Dirty
+1593,Signature
+1594,Beautiful
+1595,Virus
+1596,Farmer
+1597,H
+1598,Interview
+1599,Platform
+1600,Jailer
+1601,Saw
+1602,Manual
+1603,Take Revenge
+1604,White Gourd
+1605,Insects
+1606,Vadodara
+1607,Spendthrift
+1608,Internet
+1609,Key
+1610,Flyover (Road)
+1611,Over
+1612,Sand
+1613,School Bus
+1614,Government
+1615,Mat
+1616,Institution
+1617,Engineer
+1618,Gloves
+1619,Video
+1620,Who
+1621,Copper
+1622,Blouse
+1623,Feed
+1624,Afternoon
+1625,Recharge
+1626,19/Nineteen
+1627,Later
+1628,Coat
+1629,Divide [VEB]
+1630,Think [VEB]
+1631,How Much
+1632,Peon
+1633,Actor
+1634,Magic
+1635,Copy-Paste
+1636,Radio
+1637,Kajal
+1638,Cricket
+1639,Ornaments
+1640,Disagree
+1641,Busy
+1642,Search
+1643,National Anthem
+1644,Page
+1645,Its
+1646,Office
+1647,Railway
+1648,Obey/Obedient
+1649,Fraud
+1650,Chennai
+1651,Trust
+1652,Truck
+1653,Difficult
+1654,Fail
+1655,"100,000/One Lac"
+1656,Stick
+1657,Room
+1658,Bolt
+1659,Down
+1660,Uttar Pradesh
+1661,Fish
+1662,Guess
+1663,Brother
+1664,Dictionary
+1665,15Th/Fifteenth
+1666,Model
+1667,Friend
+1668,Town
+1669,Buffalo
+1670,Pray [VEB]
+1671,Letter
+1672,Necessary
+1673,Puducherry
+1674,Party
+1675,For
+1676,Pant
+1677,Female/Ladies/Feminine Gender
+1678,Happy
+1679,Protect
+1680,Love
+1681,Policy
+1682,Ladder
+1683,Again
+1684,Respect
+1685,Unlucky
+1686,Appreciate
+1687,World
+1688,Building
+1689,Salwar Kameez
+1690,Coin
+1691,Rubber/Eraser
+1692,Hole
+1693,Father
+1694,Want
+1695,Them
+1696,Together
+1697,Circus
+1698,Open
+1699,Account (Email/Bank/Etc)
+1700,Puja
+1701,Celibate
+1702,Bend
+1703,Deal/Handle/Manage/Cope With
+1704,Make
+1705,Shoulder
+1706,They
+1707,Day Before
+1708,Those
+1709,Strainer
+1710,Beverages
+1711,Compass (For Direction)
+1712,Box
+1713,Question
+1714,Trophy
+1715,Or
+1716,Big/Large
+1717,Sheep
+1718,Roam
+1719,District
+1720,Hindu
+1721,Madhya Pradesh
+1722,Thorn
+1723,Asia
+1724,Granddaughter
+1725,Effort
+1726,Smart Phone
+1727,What Time
+1728,Keyboard
+1729,Knock [VEB]
+1730,Proud
+1731,Hour
+1732,Leak
+1733,Alone
+1734,Adjective
+1735,Ripe
+1736,Wound
+1737,Hospital
+1738,Corona
+1739,Religion
+1740,Pune
+1741,Paan
+1742,Twice
+1743,Lend
+1744,Priest
+1745,Haryana
+1746,Tuesday
+1747,June
+1748,Boring
+1749,O.H.P.
+1750,Barber
+1751,Route
+1752,Paternal Aunt
+1753,Shy
+1754,Menu
+1755,Interfere
+1756,Enemy
+1757,Brush
+1758,Banian/Vest
+1759,Kannada
+1760,International
+1761,Behind
+1762,Far
+1763,Spoon
+1764,Light (Color)
+1765,False/Negative
+1766,Hammer
+1767,Excited
+1768,Count [VEB]
+1769,Sweets
+1770,Teeth/White (Color)
+1771,Island
+1772,Risk/Uncertainty
+1773,Melt [VEB]
+1774,Jain
+1775,X
+1776,Softly
+1777,Translate
+1778,Move
+1779,Clouds
+1780,Marriage
+1781,Pen
+1782,Serious
+1783,Birthday
+1784,Suppose
+1785,West (Side)
+1786,Theater
+1787,Drum
+1788,700/Seven Hundred
+1789,England
+1790,Experience
+1791,Drum Stick
+1792,Cold (Health)
+1793,Often
+1794,Buy [VEB]
+1795,Guwahati
+1796,Yourself
+1797,Color
+1798,Fight
+1799,Promise
+1800,Audiologist
+1801,Flute
+1802,Bengali
+1803,Electrician
+1804,Craft
+1805,Diabetes
+1806,Wedding
+1807,Curved
+1808,Increase
+1809,Feather
+1810,Wada
+1811,Calcutta
+1812,Almonds
+1813,Shake
+1814,Europe
+1815,Left [VEB]
+1816,Criticize
+1817,Tie (Collaboration)
+1818,Blink
+1819,Parsi
+1820,Andhra Pradesh
+1821,Driver
+1822,Minute
+1823,Knit
+1824,Press
+1825,Boil
+1826,11Th/Eleventh
+1827,Jealous
+1828,Semicircle
+1829,Video Camera
+1830,Sports
+1831,Around
+1832,Second
+1833,Sieve
+1834,Vehicles
+1835,Yesterday
+1836,Milkman
+1837,Metal
+1838,Dosa
+1839,Bathroom
+1840,Ghee
+1841,Dislike
+1842,Some
+1843,Rough (Surface)
+1844,To You (Plural)
+1845,Kerala
+1846,Saline
+1847,Disguise
+1848,Wednesday
+1849,Handkerchief
+1850,File
+1851,Absent
+1852,Real
+1853,Express
+1854,Lucknow
+1855,Caram
+1856,Matter
+1857,Mushroom
+1858,Deaf
+1859,Without
+1860,Chief Minister/C.M.
+1861,Eagerness/Willingness/Promptness
+1862,Of
+1863,Sharp
+1864,Blood
+1865,Bird
+1866,Aadhar Card
+1867,Vomit
+1868,20/Twenty
+1869,Matchbox
+1870,Punjabi
+1871,Foolish
+1872,Shelf
+1873,Coal
+1874,Game
+1875,East (Side)
+1876,Olympics
+1877,Visible
+1878,Job
+1879,Holi
+1880,In
+1881,Encourage
+1882,Wash
+1883,Introduce
+1884,Force
+1885,Patient
+1886,Bus Conductor
+1887,Rat
+1888,"1,001/Thousand & One"
+1889,Short/Young
+1890,Peak
+1891,Dangerous
+1892,Toothbrush
+1893,Hindi
+1894,Opaque
+1895,Comb
+1896,Home/House
+1897,Hat/Cap
+1898,Girl
+1899,Butter
+1900,Compare
+1901,Advise
+1902,Herself
+1903,Sri Lanka
+1904,Toast
+1905,Scanner
+1906,Yellow
+1907,Which
+1908,Fax
+1909,F
+1910,Bank
+1911,"5,000,000/Five Million"
+1912,Easy
+1913,Amount
+1914,Principal
+1915,Tempt [VEB]
+1916,Decide
+1917,Orange (Fruit)
+1918,Gita
+1919,Various
+1920,Week
+1921,Parliament
+1922,Smooth
+1923,Cholera
+1924,Dig
+1925,Jacket
+1926,Rice (Dish)
+1927,Wool
+1928,Satisfied
+1929,Noon
+1930,Instigate [VEB]
+1931,Rifle
+1932,Careful
+1933,Diameter
+1934,Handicapped
+1935,Photograph
+1936,T
+1937,Flat
+1938,Bulb
+1939,Whose
+1940,Boss
+1941,Calculator
+1942,200/Two Hundred
+1943,Dinner
+1944,Waterproof/Water Resistant
+1945,Jowar (Sorghum)
+1946,Video Call
+1947,Temple
+1948,France
+1949,Monday
+1950,Sarada Ma
+1951,Footpath
+1952,21/Twenty One
+1953,Rich
+1954,Escape
+1955,Train Ticket
+1956,Nature
+1957,Bug
+1958,Sink
+1959,Actress
+1960,Observe/Watch
+1961,3/Three
+1962,Bhopal
+1963,B.P.
+1964,Member Of Parliament/M.P.
+1965,Conjunction
+1966,Correct
+1967,Light (Weight)
+1968,Neighbor
+1969,Lion
+1970,Speakers
+1971,Aeroplane
+1972,Nest
+1973,Snow
+1974,Get
+1975,Cup
+1976,Cover
+1977,Roll
+1978,Sweet
+1979,Ghost
+1980,Sculpture
+1981,Grandson
+1982,Supply
+1983,Sea
+1984,Stale
+1985,Steal [VEB]
+1986,Bright (Quick-Witted)
+1987,Regret
+1988,Station
+1989,College
+1990,Magnet
+1991,Ladakh
+1992,Stubborn
+1993,Salary
+1994,Urgent
+1995,Boy
+1996,Sad
+1997,Papaya
+1998,Sift [VEB]
+1999,Engine
+2000,Vegetarian
+2001,Power

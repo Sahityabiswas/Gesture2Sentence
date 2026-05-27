@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project-generated reports and debug outputs
+evaluation_reports/
+*.log
+
+# Large training/inference artifacts
+artifacts/
+submodels/
+wts_split/best_model/
+ctrgcn_workspace/artifacts/
+
+# Model checkpoints and tensor weights
+*.pt
+*.pth
+*.safetensors
+
+# Large serialized datasets and temporary arrays
+*.npy
+data_map_FDMSE-ISL_keypoints.pkl
+
+# Duplicate or scratch files
+vid_class_FDMSE-ISL - Copy.pkl
+Untitled-1.py
+
+# Optional local media/test assets
+*.mp4
+*.avi
+*.mov

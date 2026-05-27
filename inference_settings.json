@@ -1,0 +1,6 @@
+{
+  "top_k_groups": 5,
+  "top_k_classes": 5,
+  "temperature": 1.0,
+  "group_score_power": 1.0
+}
