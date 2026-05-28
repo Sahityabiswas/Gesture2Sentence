@@ -271,30 +271,3 @@ python evaluate_ctrgcn.py --checkpoint artifacts\best_model.pt
 ```
 
 This keeps graph-model experiments separate from the main hierarchical pipeline.
-
-## Notes on GitHub Upload
-
-This repository is designed so that source code can be uploaded without pushing large data and checkpoint files.
-
-Included in GitHub:
-
-- source code
-- small metadata/config files
-- optional evaluation CSVs or images
-- documentation
-
-Excluded from GitHub:
-
-- raw dataset pickles
-- trained checkpoints
-- artifact folders
-- cache folders
-
-## Suggested Improvements
-
-- Add a `requirements.txt` or `environment.yml`
-- Add sample input videos for reproducible demos
-- Host checkpoints with GitHub Releases, Google Drive, or Hugging Face
-- Add quantitative results and example predictions to this README
-
-
