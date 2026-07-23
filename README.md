@@ -21,6 +21,88 @@ This reduces a very large classification problem into a more manageable hierarch
 
 The repository also includes a second-stage language model pipeline that takes a short sequence of predicted signs and generates a natural sentence from them.
 
+## Architecture
+
+```mermaid
+graph TD
+    subgraph Input
+        A[Raw Video File]
+        A2[Dataset Video ID]
+    end
+
+    subgraph Preprocessing
+        B[video_keypoint_extractor.py<br/>VideoKeypointExtractor - MediaPipe]
+        C[video_preprocess_utils.py<br/>resample + preprocess]
+        D[normalize.py<br/>normalize keypoints - global_stats.pkl]
+        E[dataset.py / dataset.csv<br/>dataset video keypoints]
+    end
+
+    A --> B --> C --> D
+    A2 --> E --> D
+
+    subgraph Training["Train_hierarchical.py"]
+        F[Build label_map.pkl]
+        G[KMeans clustering<br/>classes to groups - group_map.pkl]
+        H[Train Group Model - Stage 1]
+        I[Train Per-Group Submodels - Stage 2]
+    end
+
+    D --> F --> G --> H --> I
+    M[model.py<br/>model architectures] --> H
+    M --> I
+    K[config.py<br/>NUM_GROUPS HIDDEN_SIZE etc] --> Training
+
+    subgraph Inference["hierarchical_inference.py"]
+        J1[Stage 1: predict sign group]
+        J2[Stage 2: predict class within group]
+    end
+    H --> J1 --> J2
+    I --> J2
+    label_map.pkl -.-> J2
+    inference_utils.py[inference_utils.py /<br/>inference_settings.json] --> J1
+
+    D --> J1
+    J2 --> P1[predict.py<br/>predict by dataset vid]
+    J2 --> P2[predict_video.py<br/>predict from raw video]
+    C --> P2
+
+    J2 --> EV[evaluate.py<br/>eval + sweep top-k/temperature]
+    EV --> REP[evaluation_reports/]
+
+    subgraph SentencePipeline["Sign-to-Sentence Pipeline"]
+        S1[pipeline.py<br/>predict 3-video window]
+        S2[Convert predictions to keyword text]
+        S3[T5 Generator<br/>wts_split/best_model]
+    end
+
+    J2 --> S1 --> S2 --> S3 --> S4[Generated Sentence]
+
+    subgraph T5Training["wts_split/"]
+        T1[training.py<br/>train T5 on keywords to sentence]
+        T2[inference.py<br/>keyword to sentence CLI]
+    end
+    T1 --> S3
+    T2 --> S3
+
+    DEMO[demo.py<br/>interactive CLI demo] --> S1
+
+    subgraph CTRGCN["ctrgcn_workspace/ (isolated experiment)"]
+        CT1[train_ctrgcn.py]
+        CT2[evaluate_ctrgcn.py]
+    end
+    D -.shared keypoint format.-> CT1
+    CT1 --> CT2
+
+    subgraph Diagnostics["Utility / Exploration Scripts"]
+        U1[compare_video_features.py]
+        U2[plot_normalize.py]
+        U3[show_normalize.py]
+        U4[Explore_id.py]
+        U5[my_check.py]
+    end
+    D -.-> Diagnostics
+```
+
 ## Main Components
 
 - `Train_hierarchical.py`
